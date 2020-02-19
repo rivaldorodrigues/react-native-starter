@@ -1,0 +1,9 @@
+export const CORES = {
+  PRIMARIO: '#4888B4',
+  SECUNDARIO: '#03598C',
+
+  CINZA_PRIMARIO: '#4d4d4d',
+  CINZA_SECUNDARIO: '#949499',
+
+  BACKGROUND: '#E6E6E6',
+};
